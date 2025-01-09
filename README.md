@@ -21,12 +21,6 @@
 
 - ## Stats:
 
-<div align="center">
-  ![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcspim&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-</div>
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcspim&layout=compact&theme=radical)
-</div>
-<div align="center">
-  ![Marcel's Contribution Graph](https://github-readme-stats.vercel.app/api/generate?username=marcspim&theme=radical&count_private=true)
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcspim&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcspim&layout=compact&theme=radical)
+![Contribution Graph](https://github-readme-stats.vercel.app/api/generate?username=marcspim&theme=radical&count_private=true)
