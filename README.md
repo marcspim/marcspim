@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&section=header"/>
 
 # 
-![Obi-Wan Kenobi GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NidXAxOG43OTBvN2t3d2Q0bmVlNDRmajJrcXl4ZWV2OWJ4cmZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NidXAxOG43OTBvN2t3d2Q0bmVlNDRmajJrcXl4ZWV2OWJ4cmZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" alt="animated" />
+</p>
 
 ## About me:
 
