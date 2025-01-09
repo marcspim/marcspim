@@ -2,7 +2,7 @@
 
 # 
 <p aling="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NidXAxOG43OTBvN2t3d2Q0bmVlNDRmajJrcXl4ZWV2OWJ4cmZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" alt ="Obi-Wan Kenobi Gif"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NidXAxOG43OTBvN2t3d2Q0bmVlNDRmajJrcXl4ZWV2OWJ4cmZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif">
 </p>
 
 ## About me:
@@ -19,7 +19,7 @@
 
 - ## Let's connect:
 
-- [LinkedIn](https://www.linkedin.com/in/marcel-sarcinelli-pimenta-b59296176/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-sarcinelli-pimenta-b59296176/)
 
 - ## Stats:
 
