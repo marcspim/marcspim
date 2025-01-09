@@ -7,7 +7,10 @@
 
 ## About me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=CEAE99&width=1550&lines=My+name+is+Marcel%2C+I'm+a+geologist+with+a+master's+degree+in+Soil+Science.;Currently+I'm+studying+programming+and+data+science+at+EBAC.;I've+always+been+a+tech+enthusiast!;Now+I'm+looking+for+new+paths+for+my+life+and+career!;Feel+free+to+reach+out!)](https://git.io/typing-svg)
+<p aling="center>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=CEAE99&width=1550&lines=My+name+is+Marcel%2C+I'm+a+geologist+with+a+master's+degree+in+Soil+Science.;Currently+I'm+studying+programming+and+data+science+at+EBAC.;I've+always+been+a+tech+enthusiast!;Now+I'm+looking+for+new+paths+for+my+life+and+career!;Feel+free+to+reach+out!)](https://git.io/typing-svg)
+
+</p>
 
 ## Skills:
 
