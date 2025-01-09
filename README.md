@@ -1,28 +1,9 @@
-# Hello there!  
-![Obi-Wan Kenobi GIF](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&text=Hello%20there!&reversal=false&textBg=false&fontColor=A09484&fontSize=70%section=header"/>
+![Obi-Wan Kenobi GIF](https://giphy.com/gifs/mrw-top-escalator-Nx0rz3jtxtEre)
 
 ## About me:
 
-<svg width="100%" height="100" viewBox="0 0 1000 100">
-  <text x="20" y="40" font-family="monospace" font-size="30" fill="black">
-    <tspan id="typeText"></tspan>
-  </text>
-</svg>
-
-<script>
-  const text = "My name is Marcel, I'm a geologist with a master's degree in Soil Science. Currently, I'm studying programming and data science, for I've always been a tech enthusiast and now am looking for new paths in my life and career. Feel free to reach out! 😉🫡";
-  let index = 0;
-  
-  function typeText() {
-    if (index < text.length) {
-      document.getElementById('typeText').textContent += text.charAt(index);
-      index++;
-      setTimeout(typeText, 100); // Adjust typing speed here
-    }
-  }
-
-  typeText();
-</script>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=CEAE99&width=1550&lines=My+name+is+Marcel%2C+I'm+a+geologist+with+a+master's+degree+in+Soil+Science.;Currently+I'm+studying+programming+and+data+science+at+EBAC.;I've+always+been+a+tech+enthusiast!;Now+I'm+looking+for+new+paths+for+my+life+and+career!;Feel+free+to+reach+out!)](https://git.io/typing-svg)
 
 ## Skills:
 
