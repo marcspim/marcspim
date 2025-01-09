@@ -24,3 +24,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcspim&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcspim&layout=compact&theme=radical)
 ![Contribution Graph](https://github-readme-stats.vercel.app/api/generate?username=marcspim&theme=radical&count_private=true)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&section=footer"/>
