@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&text=Hello%20there!&reversal=false&textBg=false&fontColor=A09484&fontSize=70%section=header"/>
-![Obi-Wan Kenobi GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NidXAxOG43OTBvN2t3d2Q0bmVlNDRmajJrcXl4ZWV2OWJ4cmZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=4F6B7B&text=Hello%20there!&reversal=false&textBg=false&fontColor=A09484&fontSize=70%section=header"/>
+![Obi-Wan Kenobi GIF](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif)
 
 ## About me:
 
