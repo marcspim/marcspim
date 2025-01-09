@@ -16,3 +16,11 @@
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - ![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+- ## Let's connect:
+
+- [LinkedIn](https://www.linkedin.com/in/marcel-sarcinelli-pimenta-b59296176/)
+
+- ## Stats:
+
+- ![Marcel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcspim&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
