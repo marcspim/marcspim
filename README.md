@@ -11,20 +11,25 @@
 
 ## Skills 🖥️👨‍💻:
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=10% width=10% />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height=10% width=10% />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height=10% width=10% />       
+</p>
+
 - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 - ![Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 - ## Let's connect 🌐📧:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-sarcinelli-pimenta-b59296176/)
+- [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+)](mailto:marcelspimenta@hotmail.com)
 
 - ## Stats 🈺⚙️:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcspim&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcspim&layout=compact&theme=radical)
-![Contribution Graph](https://github-readme-stats.vercel.app/api/generate?username=marcspim&theme=radical&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcspim&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&height=50%&width=50%)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcspim&layout=compact&theme=radical&height=50%&width=50%)
+![Contribution Graph](https://github-readme-stats.vercel.app/api/generate?username=marcspim&theme=radical&count_private=true&height=100%&width=100%)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&section=footer"/>
