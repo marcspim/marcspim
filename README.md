@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=4F6B7B&text=Hello%20there!&reversal=false&textBg=false&fontColor=A09484&fontSize=70%section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&text=Hello%20there!&reversal=false&textBg=false&fontColor=A09484&fontSize=120%section=header"/>
+
+# Hello there!  
 ![Obi-Wan Kenobi GIF](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif)
 
 ## About me:
