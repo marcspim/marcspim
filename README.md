@@ -30,7 +30,7 @@
 - ## Stats 🈺⚙️:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcspim&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&height=100%&width=100%)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcspim&locale=en&hide_title=false&layout=compact&&langs_count=5&theme=radical&height=100%&width=100%)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcspim&locale=en&hide_title=false&layout=compact&&langs_count=10&theme=radical&height=100%&width=100%)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcspim&theme=github&bg_color=0D1117&color=7846E2&point=CEAE99&line=4F6B7B&hide_border=false&theme=radical&count_private=true&height=400&width=100%)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&section=footer"/>
