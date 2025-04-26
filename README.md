@@ -7,7 +7,7 @@
 
 ## About me 🤩⚒️:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=CEAE99&vCenter=true&width=450&lines=I'm+Marcel%2C+a+geoscientist+at+Geotek.;I'm+a+geologist%2C+Master+of+Science;and+tech+enthusiast!;My+line+of+work+is+with+data+science;%26+analytics%2C+and+programming%2C;aiming+the+optimization+of;geological+data+processing+flow.;Feel+free+to+reach+out+if+you;have+the+same+interests!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=CEAE99&center=true&vCenter=true&width=450&lines=I'm+Marcel%2C+a+geoscientist+at+Geotek.;I'm+a+geologist%2C+Master+of+Science;and+tech+enthusiast!;My+line+of+work+is+with+data+science;%26+analytics%2C+and+programming%2C;aiming+the+optimization+of;geological+data+processing+flow.;Feel+free+to+reach+out+if+you;have+the+same+interests!)](https://git.io/typing-svg)
 
 ## Skills 🖥️👨‍💻:
 
