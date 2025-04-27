@@ -12,7 +12,7 @@
 I'm Marcel, **geoscientist at Geotek**.  
 I'm a **geologist**, **Master of Science** and **tech enthusiast**!  
 My line of work is with **data science & analytics**, and **programming**, aiming the **optimization of geological data processing flow**.  
-If you have the same interests, *feel free to reach out*!
+If you have the same interests, **feel free to reach out**!
 
 </div>
 
