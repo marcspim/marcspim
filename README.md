@@ -7,7 +7,14 @@
 
 ## About me 🤩⚒️:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=500&color=CEAE99&center=true&vCenter=true&width=1550&lines=I'm+Marcel%2C+a+geoscientist+at+Geotek.;I'm+a+geologist%2C+Master+of+Science;and+tech+enthusiast!;My+line+of+work+is+with+data+science;%26+analytics%2C+and+programming%2C;aiming+the+optimization+of;geological+data+processing+flow.;If+you+have+the+same+interests,;feel+free+to+reach+out!)](https://git.io/typing-svg)
+<div align="center">
+
+I'm Marcel, **geoscientist at Geotek**.  
+I'm a **geologist**, **Master of Science** and **tech enthusiast**!  
+My line of work is with **data science & analytics**, and **programming**, aiming the **optimization of geological data processing flow**.  
+If you have the same interests, *feel free to reach out*!
+
+</div>
 
 ## Skills 🖥️👨‍💻:
 
@@ -34,10 +41,10 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcspim&locale=en&hide_title=false&layout=compact&&langs_count=10&theme=radical&height=100%&width=100%)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcspim&theme=github&bg_color=0D1117&color=7846E2&point=CEAE99&line=4F6B7B&hide_border=false&theme=radical&count_private=true&height=400&width=100%)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&section=footer"/>
-
 <picture align = "center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BBren0/BBren0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BBren0/BBren0/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BBren0/BBren0/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4F6B7B&section=footer"/>
