@@ -31,7 +31,6 @@ If you have the same interests, **feel free to reach out**!
 
 - ## Let's connect 🌐📧:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcel-sarcinelli-pimenta-b59296176/)
 - [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 )](mailto:marcelspimenta@hotmail.com)
 
