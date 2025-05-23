@@ -10,7 +10,7 @@
 <div align="center">
 
 I'm Marcel, **geologist, data scientist and analyst**.  
-I'm a **geologist**, **Master of Science** and **tech enthusiast**!  
+I own a **Master of Science degree** and I'm a **tech enthusiast**!  
 My line of work is with **data science & analytics**, and **programming**, aiming the **optimization of geological data processing flow**.  
 If you have the same interests, **feel free to reach out**!
 
